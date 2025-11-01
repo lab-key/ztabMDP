@@ -1,0 +1,11 @@
+.{
+    .name = .ztabMDP,
+    .fingerprint = 0xf786bbdf3d0e1cfa,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.15.1",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
